@@ -1,7 +1,7 @@
 
 ## Hello everyone. Welcome to Gaudiot's portfolio 👋
 ## About me
-Hello World. My name is Victor Gaudiot (He/His), I live in Brazil, but I was born in the U.S.A. I am 23 years old, Computer Scientist student at [CIn - UFPE](https://portal.cin.ufpe.br/) and expected to graduate at december 2023.
+Hello World. My name is Victor Gaudiot (He/His), I live in Brazil, but I was born in the U.S.A. I am 23 years old, Computer Science student at [CIn - UFPE](https://portal.cin.ufpe.br/) and expected to graduate at december 2023.
 
 <div class="stats">
 	<img height="180em" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=gaudiot&show_icons=true&theme=radical"/>
