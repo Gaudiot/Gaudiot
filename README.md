@@ -29,7 +29,7 @@ Hello World. My name is Victor Gaudiot (He/His), I live in Brazil, but I was bor
 	<a href="https://github.com/Gaudiot" target="_blank">
 		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 	</a>
-	<a href="mailto:contatorafaballerini@gmail.com" target="_blank">
+	<a href="mailto:victor.gaudiot@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 	</a>
 	<a href="https://www.twitch.tv/gaudiot" target="_blank">
