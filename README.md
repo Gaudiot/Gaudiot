@@ -10,15 +10,15 @@ My name is Victor Gaudiot. I'm a software engineer and mobile developer. Live in
 
 ### Techs:
 <div class="linguagens">
-	<img class="tech-icon" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" padding=10px/>
-	<img class="tech-icon" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-	<img class="tech-icon" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	<img class="tech-icon" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-	<img class="tech-icon" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	<img class="tech-icon" alt="CPlusPlus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-	<img class="tech-icon" alt="GO" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-	<img class="tech-icon" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-	<img class="tech-icon" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width=50/>
+	<img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=50/>
+	<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50/>
+    <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width=50/>
+	<img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=50/>
+	<img alt="CPlusPlus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=50/>
+	<img alt="GO" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width=50/>
+    <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=50/>
+    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=50/>
 </div>
 
 ![Snake animation](https://github.com/gaudiot/gaudiot/blob/output/github-contribution-grid-snake.svg)
@@ -38,13 +38,6 @@ My name is Victor Gaudiot. I'm a software engineer and mobile developer. Live in
 		<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 	</a>
 </div>
-
-<style>
-    .tech-icon {
-        padding-right: 20px;
-        width: 50px
-    }
-</style>
 <!--
 Para ajudar a fazer o README: https://stackedit.io/app#
 
